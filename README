@@ -1,0 +1,11 @@
+dependencies:
+    - threading
+    - pyBlueZ
+    - Lightblue
+    - OpenOBEX
+    - PyYAML
+    - httplib and urllib
+
+usage:
+    $ vim defaultrules.yml
+    $ python bluebox.py

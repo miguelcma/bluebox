@@ -1,0 +1,30 @@
+- scan:
+    scaninterval: 30
+    getnames: true
+    getservices: true
+    namechache: 120
+    # scantimeout: 8
+    # nametimeout: 8
+    # servicetimeout: 8
+
+- postsighting:
+    url: http://sightings.service.com/domain/display/place/demo/scannerAddress/111111111111/reports
+    sendempty: true
+
+#- deliverfile:
+#    url: http://img705.imageshack.us/img705/3679/lolface.gif
+#    mac: 00:11:A0:01:15:51
+#    # name: *tag.files*
+#    # class: CellPhone
+#    rememberfor: 120
+#    retrytimes: 5
+
+#- acceptfile:
+#    # filename: "*.jpg"
+#    # mac: 00:01:AE:**:**:**
+#    # name: *tag.files*
+#    # class: CellPhone
+#    url: http://anywhereplaces.redirectme.net/restservice/resources/obex/5/reports
+
+#- advertise:
+#    name: Ubicomp2

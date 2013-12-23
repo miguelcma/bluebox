@@ -7,8 +7,8 @@ Bluebox website: http://ubicomp.algoritmi.uminho.pt/
 Original Sourceforge website: https://sourceforge.net/projects/bluebox-hotspot/
 
 
-NOTE: This project is staled since 2011-11-20
-=============================================
+This project is staled since 2011-11-20
+=======================================
 
 Dependencies
 ------------
